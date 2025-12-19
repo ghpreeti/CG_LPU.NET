@@ -1,0 +1,34 @@
+why .net
+-fully OOPs based
+-multiple inheritance not supported
+-better support for dynamic web pages
+-language independence
+-code sharing via assemblies traditionally as DLL
+-efficient data sharing(variable->collections->file handling->database)//volatile to non-volatile
+-improved security(role-based , code access security)
+
+.net framework
+-reflection = get metadata into runtime
+-CLR(common language runtime) languages compiled by native compiler but then compiled with CLR
+-CLR Automatic memeory management,Exceptional handling
+
+.net language
+-standarized by ECMA
+-robust and durable
+CLS(common language Specification) = describes features that different language have in common
+-any program with CLS can interpret with .net
+
+CTS(Common type system)=enables cross-language integration
+-all types derived from System.Object
+-ADO.net =  model to access data(DB->ado.net->gui app)
+
+EXECUTION ENGINE FOR MANAGED CODE(MSIL)
+JIT compiler 
+-standard-JIT(invoke onle code which is needed and client hardware is not known)
+-Pre-JIT(when we know client Hardware)
+-econo-JIT(code for mobile or tablet applications)
+
+assemblies = logical unit of env
+
+console based app are based on menu driven -> created by do-while
+foreach(var item in collection)

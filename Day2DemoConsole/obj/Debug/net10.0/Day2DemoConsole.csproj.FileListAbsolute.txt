@@ -1,0 +1,14 @@
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.exe
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.deps.json
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.runtimeconfig.json
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.dll
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.pdb
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.AssemblyInfoInputs.cache
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.AssemblyInfo.cs
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.csproj.CoreCompileInputs.cache
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.dll
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\obj\Debug\net10.0\refint\Day2DemoConsole.dll
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.pdb
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.genruntimeconfig.cache
+E:\disk d\fullStack\trainingCapgemeni\Day2DemoConsole\obj\Debug\net10.0\ref\Day2DemoConsole.dll
