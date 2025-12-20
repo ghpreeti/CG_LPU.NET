@@ -1,0 +1,20 @@
+concepts
+
+COM->DCOM->DLL->Remoting->MSMQ->WebServices->WCF->WebAPI
+                                  |                 |
+ data transfer                   XML               JSON
+NIC - network card comes with limitation as per device
+
+type(Primitive)
+-no heap allocation,less garbage collection
+-more efficient memeory
+-less reference indirection
+-unified type System(predefined types)
+
+data type conversion
+-explicit (high->low)
+-implicit (low->high)
+
+-stack holds refrences
+-heap stores objects
+

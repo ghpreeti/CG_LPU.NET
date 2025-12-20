@@ -32,3 +32,4 @@ assemblies = logical unit of env
 
 console based app are based on menu driven -> created by do-while
 foreach(var item in collection)
+

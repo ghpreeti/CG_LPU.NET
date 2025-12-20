@@ -1,0 +1,15 @@
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.AssemblyInfoInputs.cache
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.AssemblyInfo.cs
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.csproj.CoreCompileInputs.cache
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.sourcelink.json
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.exe
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.deps.json
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.runtimeconfig.json
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.dll
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.pdb
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.dll
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\refint\StudentMgmtSystemApp.dll
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.pdb
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.genruntimeconfig.cache
+E:\disk d\fullStack\trainingCapgemeni\StudentMgmtSystemApp\obj\Debug\net10.0\ref\StudentMgmtSystemApp.dll
