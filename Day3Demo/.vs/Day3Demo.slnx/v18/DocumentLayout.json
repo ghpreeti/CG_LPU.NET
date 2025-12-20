@@ -16,8 +16,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\trainingCapgemeni\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\trainingCapgemeni\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:43:42.745Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -30,23 +43,9 @@
               "RelativeDocumentMoniker": "..\\ConsoleApp1\\Person.cs",
               "ToolTip": "E:\\disk d\\fullStack\\trainingCapgemeni\\ConsoleApp1\\Person.cs",
               "RelativeToolTip": "..\\ConsoleApp1\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T06:51:59.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\disk d\\fullStack\\trainingCapgemeni\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
-              "ToolTip": "E:\\disk d\\fullStack\\trainingCapgemeni\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs*",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T06:43:42.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T06:51:59.232Z"
             }
           ]
         }
