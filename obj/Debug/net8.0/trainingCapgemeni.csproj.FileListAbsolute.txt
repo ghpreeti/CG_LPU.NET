@@ -12,3 +12,4 @@ E:\disk d\fullStack\trainingCapgemeni\obj\Debug\net8.0\refint\trainingCapgemeni.
 E:\disk d\fullStack\trainingCapgemeni\obj\Debug\net8.0\trainingCapgemeni.pdb
 E:\disk d\fullStack\trainingCapgemeni\obj\Debug\net8.0\trainingCapgemeni.genruntimeconfig.cache
 E:\disk d\fullStack\trainingCapgemeni\obj\Debug\net8.0\ref\trainingCapgemeni.dll
+E:\disk d\fullStack\trainingCapgemeni\obj\Debug\net8.0\trainingCapgemeni.sourcelink.json

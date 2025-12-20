@@ -1,0 +1,11 @@
+java => pojo  = plain old java obejcts
+.net => poco = plain old c# objects
+
+-entity class has feilds attributes constructors
+
+DAO = data access object
+DAL = data access layer
+
+properties in .net called smart field
+
+getter/setter in java properties in c#

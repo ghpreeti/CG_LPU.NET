@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\disk d\\fullStack\\trainingCapgemeni\\Day3Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00299417-78DF-45D4-97E6-7A2227702D95}|..\\ConsoleApp1\\ConsoleApp1.csproj|e:\\disk d\\fullstack\\trainingcapgemeni\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00299417-78DF-45D4-97E6-7A2227702D95}|..\\ConsoleApp1\\ConsoleApp1.csproj|e:\\disk d\\fullstack\\trainingcapgemeni\\consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\trainingCapgemeni\\ConsoleApp1\\Person.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Person.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\trainingCapgemeni\\ConsoleApp1\\Person.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:51:59.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\trainingCapgemeni\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\trainingCapgemeni\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:43:42.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
