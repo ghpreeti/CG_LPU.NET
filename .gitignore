@@ -1,4 +1,4 @@
-# Visual Studio / VS Code
+# Visual Studio
 .vs/
 .vscode/
 
@@ -6,10 +6,10 @@
 bin/
 obj/
 
-# User-specific files
+# User-specific / generated
 *.user
 *.suo
-
-# Generated / cache files
-*.AssemblyInfo.cs
 *.cache
+*.pdb
+*.exe
+*.dll
