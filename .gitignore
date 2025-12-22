@@ -1,0 +1,15 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Generated / cache files
+*.AssemblyInfo.cs
+*.cache
