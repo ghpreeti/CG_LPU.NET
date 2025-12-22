@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../InterfaceDemo/InterfaceDemo.csproj" />
+  <Project Path="Day4DemoOOP.csproj" />
+</Solution>
