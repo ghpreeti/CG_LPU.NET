@@ -1,0 +1,21 @@
+object -> well defined struture & behaviour entity
+abstarction-> identifying key aspects of an entity ignoring rest
+encapsulating-> serves to separate interface of an abstraction and its implementing
+
+minorPillors of oop
+->Typing
+->concurency
+-.Persistence
+
+interfaces -> service oriented architecture()
+-loosely coupled
+-supports multiple inheritance
+
+class -> 
+-Tightly Coupled
+
+object initializer
+collection initializer
+
+genric - list
+non-genric - arraylist(stores object)

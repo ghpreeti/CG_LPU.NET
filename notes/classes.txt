@@ -9,3 +9,16 @@ DAL = data access layer
 properties in .net called smart field
 
 getter/setter in java properties in c#
+
+
+ref-> when we pass by ref  out->when we want to return multiple things from a function
+if function/method is non-static then call it creating object of the class in which that function is been created
+
+enum -> 
+
+//2D array
+int[ , ] arrNum = new int[38,4];
+//jagged array->manage resource efficiently as in every row we can add new dimention
+int[][] arrNum = new int[][]
+arr num[0] = nedw int[4]
+arrNum[1] = new int[2]
