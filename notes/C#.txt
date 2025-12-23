@@ -18,3 +18,8 @@ data type conversion
 -stack holds refrences
 -heap stores objects
 
+Exception
+-> ApplicationException
+->
+
+
