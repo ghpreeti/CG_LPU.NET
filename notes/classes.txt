@@ -22,3 +22,7 @@ int[ , ] arrNum = new int[38,4];
 int[][] arrNum = new int[][]
 arr num[0] = nedw int[4]
 arrNum[1] = new int[2]
+
+abstract classes -> can have multiple childs not objects
+sealed classes ->multiple objects not the childs
+interface- multiple inheritance
