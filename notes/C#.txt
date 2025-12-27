@@ -2,7 +2,7 @@ concepts
 
 COM->DCOM->DLL->Remoting->MSMQ->WebServices->WCF->WebAPI
                                   |                 |
- data transfer                   XML               JSON
+data transfer                   XML               JSON
 NIC - network card comes with limitation as per device
 
 type(Primitive)
