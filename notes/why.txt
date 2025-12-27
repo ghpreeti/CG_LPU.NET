@@ -33,3 +33,56 @@ assemblies = logical unit of env
 console based app are based on menu driven -> created by do-while
 foreach(var item in collection)
 
+visisbility
+
+- public: asscessible anywhere
+
+- private: only accessible to itself
+
+- protected: Accessible only inside the class and its derived (child) classes.Even if the child class is in a different file or project, it can access it.Not accessible through an object reference
+
+- Internal: within the namespace Accessible anywhere inside the same assembly (project).Any class in the same project can access it.Not accessible from another project
+
+- Protected Internal:
+
+collection
+-simple collection :
+    -Arrays
+-Advanced collection : 
+    -genric : list,stack,queue,dictionary (for genric using System.Collections.Generic)
+    -non genric : ArrayList,Stack,Queue,hashtable (for non genric using System.Collections)
+
+Array.sort -> static method as we are calling by class and arrange it in asc
+
+arrList->stores data in object type so boxing happens in initialization and unboxing happens retriving data
+ArrayList.Capacity => for 1st ele its takes 4 capacity and for 5th ele another 4 units of capacity added
+ArrayList.Count -> counts the no of elements in ArrayList
+
+Queue->takes object and return object
+Enqueue->takes object
+Dequeue->remove onject
+
+///...............CRUD..................///
+//added
+//updated
+prodlist.Find(p => p.ProdID == id)//lamda function : object of the Product class is returned
+by user end take new input to update
+//reading(Display)
+Product p = profList.Find(c=>c.ProdID==pid)
+if(p!=null)(console.Writeline())
+//FildAll() // return list of genereic type
+//delete
+ENTER ID TO delete
+FIND IF EXIST
+proodlist.remove(pO1);
+
+
+
+
+
+
+
+
+
+
+
