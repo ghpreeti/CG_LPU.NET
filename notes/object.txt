@@ -14,8 +14,21 @@ interfaces -> service oriented architecture()
 class -> 
 -Tightly Coupled
 
-object initializer
-collection initializer
+object initializer: eg
+ClassName obj = new ClassName
+{
+    Property1 = value1,
+    Property2 = value2
+};
+
+collection initializer: eg
+CollectionType obj = new CollectionType
+{
+    element1,
+    element2,
+    element3
+};
 
 genric - list
 non-genric - arraylist(stores object)
+
