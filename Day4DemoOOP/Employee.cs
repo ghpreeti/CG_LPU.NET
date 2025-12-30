@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day4DemoOOP
 {
-    abstract class Employee//we can create its multiple chils but not the objects
+    abstract class Employee//we can create its multiple childs but not the objects
     {
         #region Properties
         public int EmployeeId { get; set; }
