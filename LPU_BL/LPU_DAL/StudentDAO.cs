@@ -34,7 +34,28 @@ namespace LPU_DAL
 
         public bool DropStudentDetails(int id)
         {
-            throw new NotImplementedException();
+            bool flag = false;
+
+            if (id != 0)
+            {
+                Student s = studentList.Find(st => st.StudentID == id);
+
+                if (s != null)
+                {
+                    studentList.Remove(s);
+                    flag = true;
+                }
+                else
+                {
+                    throw new LPUException("Student not found to delete");
+                }
+            }
+            else
+            {
+                throw new LPUException("Invalid Student ID");
+            }
+
+            return flag;
         }
 
         public bool EnrollStudent(Student sObj)
@@ -76,7 +97,32 @@ namespace LPU_DAL
 
         public bool UpdateStudentDetail(int id, Student newObj)
         {
-            throw new NotImplementedException();
+            bool flag = false;
+            if (id != 0 && newObj != null)
+            {
+                Student s = studentList.Find(st => st.StudentID == id);
+                if (studentList != null)
+                {
+                    s.Name = newObj.Name;
+                    s.Course = newObj.Course;
+                    s.Address = newObj.Address;
+                    studentList.Add(s);
+
+                    flag = true;
+                }
+                else
+                {
+                    throw new LPUException("Student not found");
+                }
+
+            }
+            else
+            {
+                throw new LPUException("Invalid input data");
+            }
+            return flag;
         }
+
     }
+    
 }

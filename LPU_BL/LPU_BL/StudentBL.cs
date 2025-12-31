@@ -17,7 +17,24 @@ namespace LPU_BL
         }
         public bool DropStudentDetails(int id)
         {
-            throw new NotImplementedException();
+            bool flag = false;
+            try
+            {
+                if (id != 0)
+                {
+                    flag = sDao.DropStudentDetails(id);
+                }
+                else
+                {
+                    throw new LPUException("Invalid Student ID");
+                }
+            }
+            catch (LPUException e)
+            {
+                throw e;
+            }
+            return flag;
+
         }
 
         public bool EnrollStudent(Student sObj)
@@ -45,7 +62,23 @@ namespace LPU_BL
 
         public bool UpdateStudentDetail(int id, Student newObj)
         {
-            throw new NotImplementedException();
+            bool flag = false;
+            try
+            {
+                if (id > 0 && newObj != null)
+                {
+                    flag = sDao.UpdateStudentDetail(id, newObj);
+                }
+                else
+                {
+                    throw new LPUException("Invalid input data");
+                }
+            }
+            catch (LPUException e)
+            {
+                throw e;
+            }
+            return flag;
         }
     }
 }
