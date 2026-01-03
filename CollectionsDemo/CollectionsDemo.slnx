@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../KhataBook/KhataBook.csproj" />
+  <Project Path="CollectionsDemo.csproj" />
+</Solution>
