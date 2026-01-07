@@ -1,0 +1,15 @@
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\CashLedger.GeneratedMSBuildEditorConfig.editorconfig
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\CashLedger.AssemblyInfoInputs.cache
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\CashLedger.AssemblyInfo.cs
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\CashLedger.csproj.CoreCompileInputs.cache
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\CashLedger.sourcelink.json
+E:\disk d\fullStack\CG_Assessment\CashLedger\bin\Debug\net10.0\CashLedger.exe
+E:\disk d\fullStack\CG_Assessment\CashLedger\bin\Debug\net10.0\CashLedger.deps.json
+E:\disk d\fullStack\CG_Assessment\CashLedger\bin\Debug\net10.0\CashLedger.runtimeconfig.json
+E:\disk d\fullStack\CG_Assessment\CashLedger\bin\Debug\net10.0\CashLedger.dll
+E:\disk d\fullStack\CG_Assessment\CashLedger\bin\Debug\net10.0\CashLedger.pdb
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\CashLedger.dll
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\refint\CashLedger.dll
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\CashLedger.pdb
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\CashLedger.genruntimeconfig.cache
+E:\disk d\fullStack\CG_Assessment\CashLedger\obj\Debug\net10.0\ref\CashLedger.dll
