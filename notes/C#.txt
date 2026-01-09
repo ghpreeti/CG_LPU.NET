@@ -20,8 +20,10 @@ data type conversion
 
 Exception
 -> ApplicationException
-->
 
+Delegates => function inter and base for event handling
+when delegate return type and method return type mismatch like child class and delegate is of parent type = Covariance
+when method looking for parameter as child and we are passing parent type in delegate : Contravariance
 
 
 

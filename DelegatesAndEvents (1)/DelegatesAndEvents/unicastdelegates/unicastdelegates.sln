@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unicastdelegates", "unicastdelegates\unicastdelegates.csproj", "{EB6C2352-7486-49E2-8887-EC198A1C1D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multicastdelegates", "..\multicastdelegates\multicastdelegates.csproj", "{48064BBB-E48C-4CF6-9CFD-895821096175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anonymousdelegates", "..\anonymousdelegates\anonymousdelegates.csproj", "{C7E19C6F-D96C-4864-A3C0-CED99B10B164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegatechaining", "..\delegatechaining\delegatechaining.csproj", "{D0737A56-CA26-45D9-B199-D18DE274B049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asynchronousdelegates", "..\asynchronousdelegates\asynchronousdelegates.csproj", "{FF7EC592-6DA2-4654-BC62-97B4A7731AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contravariance_demo", "..\contravariance_demo\contravariance_demo.csproj", "{D9B05B93-5E24-4D28-AF2C-1E2EED619A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "covariance", "..\covariance\covariance.csproj", "{3960AE65-A52C-432D-98CA-8EDB95D8410C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6C2352-7486-49E2-8887-EC198A1C1D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6C2352-7486-49E2-8887-EC198A1C1D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6C2352-7486-49E2-8887-EC198A1C1D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6C2352-7486-49E2-8887-EC198A1C1D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48064BBB-E48C-4CF6-9CFD-895821096175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48064BBB-E48C-4CF6-9CFD-895821096175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48064BBB-E48C-4CF6-9CFD-895821096175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48064BBB-E48C-4CF6-9CFD-895821096175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E19C6F-D96C-4864-A3C0-CED99B10B164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E19C6F-D96C-4864-A3C0-CED99B10B164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E19C6F-D96C-4864-A3C0-CED99B10B164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E19C6F-D96C-4864-A3C0-CED99B10B164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0737A56-CA26-45D9-B199-D18DE274B049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0737A56-CA26-45D9-B199-D18DE274B049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0737A56-CA26-45D9-B199-D18DE274B049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0737A56-CA26-45D9-B199-D18DE274B049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7EC592-6DA2-4654-BC62-97B4A7731AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7EC592-6DA2-4654-BC62-97B4A7731AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7EC592-6DA2-4654-BC62-97B4A7731AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7EC592-6DA2-4654-BC62-97B4A7731AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B05B93-5E24-4D28-AF2C-1E2EED619A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B05B93-5E24-4D28-AF2C-1E2EED619A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B05B93-5E24-4D28-AF2C-1E2EED619A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B05B93-5E24-4D28-AF2C-1E2EED619A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3960AE65-A52C-432D-98CA-8EDB95D8410C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3960AE65-A52C-432D-98CA-8EDB95D8410C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3960AE65-A52C-432D-98CA-8EDB95D8410C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3960AE65-A52C-432D-98CA-8EDB95D8410C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
