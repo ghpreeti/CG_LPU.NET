@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="events_demo">
+</Property><Property Name="Solution File" Value="D:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo.sln">
+</Property><Property Name="User Options File" Value="D:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo.suo">
+</Property><Property Name="Date" Value="15 April 2013">
+</Property><Property Name="Time" Value="13:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="events_demo.sln" Description="File successfully backed up as D:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\Backup\events_demo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="events_demo.suo" Description="File successfully backed up as D:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\Backup\events_demo.suo">
+</Event><Event ErrorLevel="0" Project="events_demo" Source="events_demo\events_demo.csproj" Description="Project file successfully backed up as D:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\Backup\events_demo\events_demo.csproj">
+</Event><Event ErrorLevel="0" Project="events_demo" Source="events_demo\Program.cs" Description="File successfully backed up as D:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\Backup\events_demo\Program.cs">
+</Event><Event ErrorLevel="0" Project="events_demo" Source="events_demo\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\Backup\events_demo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="events_demo" Source="events_demo\events_demo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="events_demo" Source="events_demo\events_demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="events_demo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="events_demo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="events_demo" Source="events_demo\events_demo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
