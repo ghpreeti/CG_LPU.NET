@@ -13,7 +13,7 @@ namespace WinSerializationDemo
         public int Id { get; set; }
         public string Name { get; set; }
 
-        [NonSerialized] // can not be applied directly into property so a local variable is needed
+        [NonSerialized] // can not be applied directly into property so a local variable is neededz
         int sal;
         public int Salary 
         {
