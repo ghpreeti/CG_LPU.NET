@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LooslyCoupled")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+935504ae7d64096bc47ea17d7940c1441cc33f16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd048114e3233d5471b294de1cf4f66c0f80ab60")]
 [assembly: System.Reflection.AssemblyProductAttribute("LooslyCoupled")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LooslyCoupled")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

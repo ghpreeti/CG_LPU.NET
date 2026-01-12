@@ -1,0 +1,9 @@
+applications
+-In-memeory: list,dict,sorted dict etc.
+-Files: xml->XPath
+-Database: ADO.net
+           -Connected : live data(less scalable) one user+one active connections,data called directly from database
+           -Disconnect: data copied into memeory then closes immediately,happens offline,open for brief time only
+
+=>LINQ : language integrated query 
+          
