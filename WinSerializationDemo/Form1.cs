@@ -91,7 +91,19 @@ namespace WinSerializationDemo
             FileStream fs = new FileStream(@"E:\disk d\fullStack\trainingCapgemeni\WinSerializationDemo\XMLSerializer.xml", FileMode.OpenOrCreate, FileAccess.ReadWrite);
             XmlSerializer xs = new XmlSerializer(typeof(Employee));   //tag-based enduser can change it
             xs.Serialize(fs, emp1);
-        
+
+            foreach (Control item in this.Controls)
+            {
+                if (item.GetType() == typeof(TextBox))
+                {
+                    TextBox txtBox = (TextBox)item;
+                    txtBox.Clear();
+                }
+            }
+            fs.Close();
+            MessageBox.Show("Record Added....");
+
+
         }
 
         private void btnXMLDeserialize_Click(object sender, EventArgs e)
@@ -121,6 +133,18 @@ namespace WinSerializationDemo
             FileStream fs = new FileStream(@"E:\disk d\fullStack\trainingCapgemeni\WinSerializationDemo\SOAPserialize.xml", FileMode.OpenOrCreate, FileAccess.ReadWrite);
             SoapFormatter sf = new SoapFormatter();
             sf.Serialize(fs, emp1);
+
+            foreach (Control item in this.Controls)
+            {
+                if (item.GetType() == typeof(TextBox))
+                {
+                    TextBox txtBox = (TextBox)item;
+                    txtBox.Clear();
+                }
+            }
+            fs.Close();
+            MessageBox.Show("Record Added....");
+
 
         }
 
