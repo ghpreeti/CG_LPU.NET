@@ -37,6 +37,10 @@ namespace CashLedger
         return total;
     }
 
+      public List<T> GetAllTransaction(){
+        return transactions;
+      }
+
 }
 }
 

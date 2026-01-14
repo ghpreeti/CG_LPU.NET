@@ -46,12 +46,14 @@ class Program
         /// </summary>
         
         
-        // Console.WriteLine("=== Transaction Details ===");
-        // List<Transaction> allTransactions = new List<Transaction>();
-        // foreach (var t in incomeLedger)
-        // {
-        //     Console.WriteLine(t.GetSummary());
-        // }
+        Console.WriteLine("=== Transaction Details ===");
+        List<Transaction> allTransactions = new List<Transaction>();
+        allTransactions.AddRange(incomeLedger.GetAllTransaction());
+        allTransactions.AddRange(expenseLedger.GetAllTransaction());
+        foreach ( var item in allTransactions)
+        {
+            Console.WriteLine(item.GetSummary());
+        }
 
       
         int netBalance = incomeLedger.CalculateTotal() - expenseLedger.CalculateTotal();
