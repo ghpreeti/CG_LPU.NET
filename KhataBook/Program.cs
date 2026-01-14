@@ -8,16 +8,18 @@ public class Program
     {
         Dictionary<string, int> items = new Dictionary<string, int>()
         {
-            { "Milk", 50 },
-            { "Bread", 40 },
-            { "Butter", 50 },
-            { "Eggs", 40 },
-            { "Fruits", 100 }
+            { "Milk", 100 },
+            { "Tea", 50 },
+            { "Coffee", 100 },
+            { "Sugar", 50 },
+            { "Salt", 200 },
+            {"Bread",100},
+
         };
 
         Khata khata = new Khata(items);
 
-        Console.WriteLine("Total Amount: " + khata.getTotal());        // 280
-        Console.WriteLine("Unique Amount Count: " + khata.getRepeatAmount()); // 3
+        Console.WriteLine("Total Amount: " + khata.getTotal());        
+        Console.WriteLine("Unique Amount Count: " + khata.getRepeatAmount()); 
     }
 }

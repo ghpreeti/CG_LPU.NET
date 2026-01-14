@@ -7,3 +7,35 @@ applications
 
 =>LINQ : language integrated query 
           
+String/StringBuilder
+=>String(immutable)
+    -Compare
+    -str.Concat(string)
+    -Contain
+    -IndexOf(Char)
+    -Insert(char,Int)
+
+=> StringBuilder(mutable)
+
+=>Action : delegate
+    -Action(void type)
+    -no. of arg in method = input parameter<> in Action delegate to match signature
+
+    -Action<int> square = delegate(int num){ //anonymous delegate
+        Console.WriteLine(num*num);
+        } square(5);
+
+    -Action<string> lbdDel = (message) => Console.WriteLine($"{message}") // action anonymous with lamda method
+     lbdDel("Hello");   
+
+=>Func : delegate
+    -return type needed(like unicast)
+    -Func<int,int,int> powDel = Math.Pow; // 2 input and one return value
+    -Func<String,bool> strDel = String.IsNullEmpty; //string:input,bool:output
+
+=>Predicate : delegate
+    -bool type
+    -Predicate<string> str = string.IsNullOrEmpty; //only returns true/false
+
+=>Reflections
+             

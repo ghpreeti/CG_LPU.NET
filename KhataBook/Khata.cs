@@ -28,7 +28,37 @@ namespace KhataBook
         // Returns count of unique amounts in the dictionary
         public int getRepeatAmount()
         {
-            return record.Values.Distinct().Count();
+            Dictionary<int,int> amountCount = new Dictionary<int,int>();
+            foreach(var amount in record.Values)
+            {
+                if(amountCount.ContainsKey(amount))
+                {
+                    amountCount[amount]++;
+                }
+                else
+                {
+                    amountCount[amount] = 1;
+                }
+            }
+             int count=0;
+            foreach(var c in amountCount.Values)
+            {
+                if(c > 1)
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
+
+        public void AddItem(string itemName, int amount)
+        {
+            if(record.ContainsKey(itemName))
+            {
+                record[itemName] += amount;
+            }
+            else
+            record.Add(itemName, amount);
         }
     }
 }
