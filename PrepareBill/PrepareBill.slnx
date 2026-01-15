@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="../BroadbandPlan/BroadbandPlan.csproj" Id="79581705-e994-4429-9b10-e174c1447972" />
+  <Project Path="../MethodOverloading/MethodOverloading.csproj" Id="6b49fbac-8580-4213-9a94-bff0d4726fc6" />
+  <Project Path="../PersonDetails/PersonDetails.csproj" Id="1201f344-4093-4569-bb02-afc005a0ad45" />
   <Project Path="../StudentSubscription/StudentSubscription.csproj" Id="53b40853-6c2a-4353-aff2-0486ec627f67" />
   <Project Path="PrepareBill.csproj" />
 </Solution>

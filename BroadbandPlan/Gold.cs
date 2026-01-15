@@ -6,9 +6,9 @@ namespace BroadbandPlan
 {
     internal class Gold : IBroadbandPlan
     {
-        private bool _isSubscriptionValid;
-        private int _discountPercentage;
-        private int PlanAmount = 1500;
+        private readonly bool _isSubscriptionValid;
+        private readonly int _discountPercentage;
+        private const int PlanAmount = 1500;
 
         public Gold(){}
         public Gold(bool isSubscriptionValid,int discountPercentage)
@@ -21,12 +21,13 @@ namespace BroadbandPlan
             }
         }
 
-        public int GetBroadBandPlanAmount()
+
+        public int GetBroadbandPlanAmount()
         {
             int amount = PlanAmount;
             if (_isSubscriptionValid)
             {
-                int discount = (PlanAmount * _discountPercentage)/100;
+                int discount = (PlanAmount * _discountPercentage) / 100;
                 amount = PlanAmount - discount;
             }
             return amount;

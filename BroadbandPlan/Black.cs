@@ -6,8 +6,8 @@ namespace BroadbandPlan
 {
     internal class Black : IBroadbandPlan
     {
-        private bool _isSubscriptionValid;
-        private int PlanAmount = 3000;
+        private readonly bool _isSubscriptionValid;
+        private const int PlanAmount = 3000;
         private int _discountPercentage;
         
         public Black() { }

@@ -6,7 +6,7 @@ namespace BroadbandPlan
 {
     internal class SubscribePlan
     {
-        private IList<IBroadbandPlan> _broadbandPlans;
+        private readonly IList<IBroadbandPlan> _broadbandPlans;
         public SubscribePlan(){ }
         public SubscribePlan(IList<IBroadbandPlan> broadbandplans)
         {
@@ -20,6 +20,12 @@ namespace BroadbandPlan
         public IList<Tuple<string,int>> GetSubscriptionPlan()
         {
             IList<Tuple<string, int>> list = new List<Tuple<string, int>>();
+            foreach(var plan in _broadbandPlans)
+            {
+                list.Add(new Tuple<string, int>(plan.GetType().Name, plan.GetBroadbandPlanAmount()));
+            }
+            
+            return list;
 
 
         }
