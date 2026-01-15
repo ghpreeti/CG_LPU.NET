@@ -6,7 +6,8 @@ namespace PrepareBill
 {
     internal class PrepareBill
     {
-        private IDictionary<CommodityCategory, double> _taxRates = null;
+        
+        private readonly IDictionary<CommodityCategory, double> _taxRates = null;
         public PrepareBill()
         {
             _taxRates = new Dictionary<CommodityCategory, double>();
