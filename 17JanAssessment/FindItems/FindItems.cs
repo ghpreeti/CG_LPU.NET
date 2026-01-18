@@ -5,16 +5,21 @@ public class Program
 {
     public static SortedDictionary<String,long> itemDetails = new SortedDictionary<String,long>();
    
-//public static SortedDictionary<String,long> FindItemDetails(long soldCount){
+ public static SortedDictionary<string, long> FindItemDetails(long soldCount)
+        {
+            SortedDictionary<string, long> result =
+                new SortedDictionary<string, long>();
 
-    //SortedDictionary<String,long> result= new SortedDictionary<String,long>();
+            foreach (var item in itemDetails)
+            {
+                if (item.Value == soldCount)
+                {
+                    result.Add(item.Key, item.Value);
+                }
+            }
 
-         //if(itemDetails.ContainsValue(soldCount)){
-            //    result.Add();   
-	//	}
-         //  return result;
-
-	//}
+            return result;
+        }
 
 public static List<string> FindMinAndMaxSoldItem(){
  
@@ -48,14 +53,21 @@ public static Dictionary<string,long> SortByCount(){
           itemDetails.Add(name,soldCount);
 	}
          
-       //Console.WriteLine("Enter soldCount-----");
-       //long soldCount = Console.ReadLine();
+       Console.WriteLine("\nEnter soldCount to search:");
+            long searchCount = long.Parse(Console.ReadLine());
 
-       //if(FindItemDetails(soldCount).IsEmpty()){
-            // Console.WriteLine("Invalid sold Count");
-		//}
-      
-     //  Console.WriteLine(FindItemDetails(soldCount));
+            var foundItems = FindItemDetails(searchCount);
+            if (foundItems.Count == 0)
+            {
+                Console.WriteLine("Invalid sold Count");
+            }
+            else
+            {
+                foreach (var item in foundItems)
+                {
+                    Console.WriteLine($"{item.Key} : {item.Value}");
+                }
+            }
         
        Console.WriteLine("Output of FindMinAndMaxSoldItem()---");
            var result = FindMinAndMaxSoldItem();
