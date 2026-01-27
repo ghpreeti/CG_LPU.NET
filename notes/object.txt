@@ -29,6 +29,31 @@ CollectionType obj = new CollectionType
     element3
 };
 
+
 genric - list
 non-genric - arraylist(stores object)
+
+
+OOP------------------------------------------------------------------------------------------------
+-Abstraction
+-encapsulation/Polymorphism
+-Inheritance
+-Typing
+-Concurrency
+-Persistence
+
+Interfaces------------------------------------------------------------------------------------------
+An interface is a contract that defines what a class should do, not how it does it.
+It contains:
+Method declarations
+Property declarations
+Events
+Indexers
+❌ No method body (before C# 8)
+❌ No instance fields
+-C# does not allow multiple inheritance with classes, but it allows it with interfaces.
+✔ Cannot create object of interface
+✔ A class can implement multiple interfaces
+✔ All members are public by default
+
 
