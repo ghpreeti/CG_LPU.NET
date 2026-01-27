@@ -26,9 +26,12 @@ int[][] arrNum = new int[][]
 arr num[0] = nedw int[4]
 arrNum[1] = new int[2]
 
-abstract classes -> can have multiple childs not objects
-sealed classes ->multiple objects not the childs
-interface- multiple inheritance
+abstract classes -> can have multiple childs not objects (like virtual classes)
+    - atleast one method should be abstract which will be overriden
+sealed classes -> multiple objects not the childs
+interface - multiple inheritance
+concrete class - classes apart from abstract and sealed 
+    - we can make virtual method which can be overriden 
 
 
 Constructor chaining : process of invoking one constructor from another using this() or base() to reuse initialization code.

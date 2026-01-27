@@ -15,14 +15,17 @@ data type conversion
 -explicit (high->low)
 -implicit (low->high)
 
+enum- named integer constant(user defined)
+
 -stack holds refrences
 -heap stores objects
 
 Exception
 -> ApplicationException
 
-Delegates => function inter and base for event handling
-when delegate return type and method return type mismatch like child class and delegate is of parent type = Covariance
+Delegates => function pointer pointing towards named function
+-function inter and base for event handling
+-when delegate return type and method return type mismatch like child class and delegate is of -parent type = Covariance
 when method looking for parameter as child and we are passing parent type in delegate : Contravariance
 
 Serialization
@@ -37,6 +40,28 @@ Deserialize : bytes to object
 - sensitive date (non-serialize) rest can be serialized = opt-out model
 
 
+DLR(dynamic language )
+var
+-Compile-time type inference
+-Type is decided at compile time
+-Still strongly typed
+
+✔ Use var when:
+Type is obvious
+LINQ queries
+Anonymous types
+
+
+Dynamic
+-Run-time type resolution
+-Type checking happens at runtime
+-Not strongly typed (compiler skips checks)
+
+✔ Use dynamic when:
+Working with COM objects
+Reflection
+JSON / loosely typed data
+Interoperability (JavaScript, Python)
 
 
 
