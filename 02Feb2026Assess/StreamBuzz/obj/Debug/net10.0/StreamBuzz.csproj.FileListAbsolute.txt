@@ -1,0 +1,15 @@
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\bin\Debug\net10.0\StreamBuzz.exe
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\bin\Debug\net10.0\StreamBuzz.deps.json
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\bin\Debug\net10.0\StreamBuzz.runtimeconfig.json
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\bin\Debug\net10.0\StreamBuzz.dll
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\bin\Debug\net10.0\StreamBuzz.pdb
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\StreamBuzz.GeneratedMSBuildEditorConfig.editorconfig
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfoInputs.cache
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfo.cs
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\StreamBuzz.csproj.CoreCompileInputs.cache
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\StreamBuzz.sourcelink.json
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\StreamBuzz.dll
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\refint\StreamBuzz.dll
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\StreamBuzz.pdb
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\StreamBuzz.genruntimeconfig.cache
+E:\disk d\fullStack\Cg_Assignment\StreamBuzz\obj\Debug\net10.0\ref\StreamBuzz.dll

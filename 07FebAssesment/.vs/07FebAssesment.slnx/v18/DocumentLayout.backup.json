@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\commandpatternminiframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|solutionrelative:commandpatternminiframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\commandpatternminiframework\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|solutionrelative:commandpatternminiframework\\additemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\commandpatternminiframework\\removeitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|solutionrelative:commandpatternminiframework\\removeitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\commandpatternminiframework\\applydiscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|solutionrelative:commandpatternminiframework\\applydiscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\commandpatternminiframework\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|solutionrelative:commandpatternminiframework\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\commandpatternminiframework\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|solutionrelative:commandpatternminiframework\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\commandpatternminiframework\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791D1707-0B37-4320-BA35-4C9E382C60A0}|CommandPatternMiniFramework\\CommandPatternMiniFramework.csproj|solutionrelative:commandpatternminiframework\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67559D6A-1B82-415E-8CEB-445E713A006B}|Multi-TenantReportGenerator\\Multi-TenantReportGenerator.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\multi-tenantreportgenerator\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67559D6A-1B82-415E-8CEB-445E713A006B}|Multi-TenantReportGenerator\\Multi-TenantReportGenerator.csproj|solutionrelative:multi-tenantreportgenerator\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67559D6A-1B82-415E-8CEB-445E713A006B}|Multi-TenantReportGenerator\\Multi-TenantReportGenerator.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\multi-tenantreportgenerator\\tenantreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67559D6A-1B82-415E-8CEB-445E713A006B}|Multi-TenantReportGenerator\\Multi-TenantReportGenerator.csproj|solutionrelative:multi-tenantreportgenerator\\tenantreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67559D6A-1B82-415E-8CEB-445E713A006B}|Multi-TenantReportGenerator\\Multi-TenantReportGenerator.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\multi-tenantreportgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67559D6A-1B82-415E-8CEB-445E713A006B}|Multi-TenantReportGenerator\\Multi-TenantReportGenerator.csproj|solutionrelative:multi-tenantreportgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67559D6A-1B82-415E-8CEB-445E713A006B}|Multi-TenantReportGenerator\\Multi-TenantReportGenerator.csproj|e:\\disk d\\fullstack\\cg_assessment\\07febassesment\\multi-tenantreportgenerator\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67559D6A-1B82-415E-8CEB-445E713A006B}|Multi-TenantReportGenerator\\Multi-TenantReportGenerator.csproj|solutionrelative:multi-tenantreportgenerator\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\CommandManager.cs",
+              "RelativeDocumentMoniker": "CommandPatternMiniFramework\\CommandManager.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\CommandManager.cs",
+              "RelativeToolTip": "CommandPatternMiniFramework\\CommandManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:28:59.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplyDiscountCommand.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\ApplyDiscountCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternMiniFramework\\ApplyDiscountCommand.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\ApplyDiscountCommand.cs",
+              "RelativeToolTip": "CommandPatternMiniFramework\\ApplyDiscountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:28:21.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveItemCommand.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\RemoveItemCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternMiniFramework\\RemoveItemCommand.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\RemoveItemCommand.cs",
+              "RelativeToolTip": "CommandPatternMiniFramework\\RemoveItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:27:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddItemCommand.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\AddItemCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternMiniFramework\\AddItemCommand.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\AddItemCommand.cs",
+              "RelativeToolTip": "CommandPatternMiniFramework\\AddItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:27:03.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\Program.cs",
+              "RelativeDocumentMoniker": "CommandPatternMiniFramework\\Program.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\Program.cs",
+              "RelativeToolTip": "CommandPatternMiniFramework\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:22:08.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\Cart.cs",
+              "RelativeDocumentMoniker": "CommandPatternMiniFramework\\Cart.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\Cart.cs",
+              "RelativeToolTip": "CommandPatternMiniFramework\\Cart.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:24:00.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\ICommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternMiniFramework\\ICommand.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\CommandPatternMiniFramework\\ICommand.cs",
+              "RelativeToolTip": "CommandPatternMiniFramework\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:22:38.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\Multi-TenantReportGenerator\\ReportService.cs",
+              "RelativeDocumentMoniker": "Multi-TenantReportGenerator\\ReportService.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\Multi-TenantReportGenerator\\ReportService.cs",
+              "RelativeToolTip": "Multi-TenantReportGenerator\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:12:59.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\Multi-TenantReportGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "Multi-TenantReportGenerator\\Program.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\Multi-TenantReportGenerator\\Program.cs",
+              "RelativeToolTip": "Multi-TenantReportGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:11:27.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TenantReport.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\Multi-TenantReportGenerator\\TenantReport.cs",
+              "RelativeDocumentMoniker": "Multi-TenantReportGenerator\\TenantReport.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\Multi-TenantReportGenerator\\TenantReport.cs",
+              "RelativeToolTip": "Multi-TenantReportGenerator\\TenantReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:11:10.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\Multi-TenantReportGenerator\\Transaction.cs",
+              "RelativeDocumentMoniker": "Multi-TenantReportGenerator\\Transaction.cs",
+              "ToolTip": "E:\\disk d\\fullStack\\CG_Assessment\\07FebAssesment\\Multi-TenantReportGenerator\\Transaction.cs",
+              "RelativeToolTip": "Multi-TenantReportGenerator\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T15:09:42.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
