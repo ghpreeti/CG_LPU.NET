@@ -1,0 +1,15 @@
+
+ADO.NET-------------------------
+Connected--CCD(Connected,command,Dataread)
+DisConnected--CDD(connected,dataAdapter,Dataset)
+
+StoredProcedures: 
+--A stored procedure is a precompiled collection of SQL statements stored inside the database.
+--It is used to perform specific tasks like inserting, updating, deleting, or retrieving data.
+--Enhances security (restrict direct table access).
+
+ExecuteReader - start cmd (select)
+ExecuteNonQuery -update,insert,delete 
+ExecuteScaler - used with aggregate func
+
+

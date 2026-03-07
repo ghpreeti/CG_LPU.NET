@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StreamBuzz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df77acf55e6f25759aec085905c7181c07aee681")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cf5f31e4f73e95c5aa4338a793abc76cb44e9ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("StreamBuzz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StreamBuzz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
