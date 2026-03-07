@@ -1,0 +1,117 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model SearchViewModel
+
+@{
+    ViewData["Title"] = "Flight Search";
+}
+
+<h2>Search Flights</h2>
+
+<form method="post">
+
+    <div class="form-group">
+        <label>Source</label>
+        <select asp-for="Source" asp-items="Model.SourceList" class="form-control">
+            <option value="">-- Select Source --</option>
+        </select>
+        <span asp-validation-for="Source" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Destination</label>
+        <select asp-for="Destination" asp-items="Model.DestinationList" class="form-control">
+            <option value="">-- Select Destination --</option>
+        </select>
+        <span asp-validation-for="Destination" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Persons</label>
+        <input asp-for="Persons" class="form-control" />
+        <span asp-validation-for="Persons" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <button type="submit" asp-action="SearchFlights" class="btn btn-primary">
+        Search Flights
+    </button>
+
+    <button type="submit" asp-action="SearchFlightsWithHotels" class="btn btn-success">
+        Search Flight + Hotel Package
+    </button>
+
+</form>
+
+<br />
+
+
+<hr />
+
+@if (Model.FlightResults != null && Model.FlightResults.Any())
+{
+    <h4>Flight Results</h4>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Flight Name</th>
+                <th>Type</th>
+                <th>Source</th>
+                <th>Destination</th>
+                <th>Price Per Seat</th>
+                <th>Persons</th>
+                <th>Total Cost</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.FlightResults)
+            {
+                <tr>
+                    <td>@item.FlightName</td>
+                    <td>@item.FlightType</td>
+                    <td>@item.Source</td>
+                    <td>@item.Destination</td>
+                    <td>@item.PricePerSeat</td>
+                    <td>@item.Persons</td>
+                    <td>@item.TotalCost</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@if (Model.FlightHotelResults != null && Model.FlightHotelResults.Any())
+{
+    <h4>Flight + Hotel Package Results</h4>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Flight</th>
+                <th>Hotel</th>
+                <th>Location</th>
+                <th>Persons</th>
+                <th>Flight Cost</th>
+                <th>Hotel Cost</th>
+                <th>Total Cost</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.FlightHotelResults)
+            {
+                <tr>
+                    <td>@item.FlightName (@item.FlightType)</td>
+                    <td>@item.HotelName (@item.HotelType)</td>
+                    <td>@item.Location</td>
+                    <td>@item.Persons</td>
+                    <td>@item.FlightCost</td>
+                    <td>@item.HotelCost</td>
+                    <td><strong>@item.TotalCost</strong></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
