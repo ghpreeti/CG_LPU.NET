@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ASPCoreWebApi.Models;
 
 namespace ASPCoreWebApi.Controllers
 {
@@ -14,5 +15,21 @@ namespace ASPCoreWebApi.Controllers
 
         [HttpGet("{id}")]
         public string GetFruitsByIndex(int id) { return fruits.ElementAt(id); }
+
+        [Route("DoSomeTask1")]
+        [HttpPost]
+        public void DoSomeTask1(int id, string name)
+        {
+
+        }
+
+        [Route("DoSomeTask2")]
+        [HttpPost]
+        public ActionResult DoSomeTask2(Student stud)
+        {
+            return Ok();
+        }
     }
 }
+    
+
