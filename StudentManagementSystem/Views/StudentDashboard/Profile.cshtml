@@ -1,0 +1,60 @@
+@model StudentManagementSystem.ViewModels.StudentProfileViewModel
+@{
+    ViewData["Title"] = "My Profile";
+}
+
+<h2 class="mb-3">My Profile</h2>
+
+<form asp-action="Profile" method="post">
+    <input type="hidden" asp-for="StudentId" />
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="StudentName" class="form-label"></label>
+        <input asp-for="StudentName" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="PhoneNumber" class="form-label"></label>
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label"></label>
+        <textarea asp-for="Address" class="form-control"></textarea>
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Department</label>
+        <input value="@Model.DepartmentName" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Course</label>
+        <input value="@Model.CourseName" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Duration</label>
+        <input value="@Model.CourseDuration" class="form-control" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Fees</label>
+        <input value="@Model.CourseFees.ToString("C")" class="form-control" readonly />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update Profile</button>
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
