@@ -20,7 +20,7 @@ namespace ASPCOREWebAPI_CRUD.Controllers
         [HttpPost("login")]
         public IActionResult Login(string username, string password)
         {
-            if (username == "admin" && password == "123")
+            if (username == "admin" && password == "123456")
             {
                 var token = GenerateToken(username);
                 return Ok(token);
