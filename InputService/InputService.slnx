@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SquareService/SquareService.csproj" />
+  <Project Path="InputService.csproj" />
+</Solution>
