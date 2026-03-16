@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="CommandPatternMiniFramework/CommandPatternMiniFramework.csproj" />
-  <Project Path="CustomLINQExtensionMethods/CustomLINQExtensionMethods.csproj" />
-  <Project Path="Multi-TenantReportGenerator/Multi-TenantReportGenerator.csproj" />
-  <Project Path="ParallelDataAggregation(PLINQ-Tasks)/ParallelDataAggregation(PLINQ-Tasks).csproj" />
-</Solution>
