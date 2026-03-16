@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="ServiceLibrary/ServiceLibrary.csproj" />
-  <Project Path="UILogic/UILogic.csproj" />
-</Solution>

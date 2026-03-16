@@ -1,7 +1,0 @@
-E:\disk d\fullStack\trainingCapgemeni\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-E:\disk d\fullStack\trainingCapgemeni\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-E:\disk d\fullStack\trainingCapgemeni\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-E:\disk d\fullStack\trainingCapgemeni\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-E:\disk d\fullStack\trainingCapgemeni\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-E:\disk d\fullStack\trainingCapgemeni\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-E:\disk d\fullStack\trainingCapgemeni\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

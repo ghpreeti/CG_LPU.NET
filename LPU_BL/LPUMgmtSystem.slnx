@@ -1,8 +1,0 @@
-<Solution>
-  <Project Path="LPU_BL/LPU_BL.csproj" />
-  <Project Path="LPU_Common/LPU_Common.csproj" Id="0711917b-4e28-4383-a06b-2c9fc990c881" />
-  <Project Path="LPU_DAL/LPU_DAL.csproj" />
-  <Project Path="LPU_Entity/LPU_Entity.csproj" />
-  <Project Path="LPU_Exceptions/LPU_Exceptions.csproj" />
-  <Project Path="LPU_UI/LPU_UI.csproj" />
-</Solution>

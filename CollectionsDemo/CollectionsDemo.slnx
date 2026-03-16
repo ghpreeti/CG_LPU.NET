@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="../CustomPropertyDemo/CustomPropertyDemo.csproj" Id="11c6445b-6411-4d49-ae1f-9093331053a9" />
-  <Project Path="../KhataBook/KhataBook.csproj" />
-  <Project Path="../OperatorOverloadingDemo/OperatorOverloadingDemo.csproj" Id="dca7a2ee-6fe8-467a-86f1-f1fab3ce0a13" />
-  <Project Path="CollectionsDemo.csproj" />
-</Solution>
